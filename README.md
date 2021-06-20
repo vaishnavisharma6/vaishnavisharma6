@@ -8,3 +8,5 @@ Welcome to my Github Profile!
 - 💬 Ask me about anything related to Various Computation techniques, Artificial Intelligence innovations etc.
 - 📫 How to reach me: https://www.linkedin.com/in/vaishnavi-sharma-6492a2198/
 [![Vaishnavi's Github stats](https://github-readme-stats.vercel.app/api?username=vaishnavisharma6)](https://github.com/vaishnavisharma6/github-readme-stats)
+![Vaishnavi's Github stats](https://github-readme-stats.vercel.app/api?username=vaishnavisharma6&show_icons=true&theme=dark)
+
