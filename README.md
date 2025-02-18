@@ -1,2 +1,2 @@
 ## Hi there 👋
-Interested and working on problems in Learning theory, Control theory, Bandits, Reinforcement learning.
+Interested and working on problems in Online learning theory, Control theory, Bandits, Reinforcement learning.
