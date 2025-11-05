@@ -1,3 +1,3 @@
 ## Hi there 👋
-Working on problems in RL theory.
+Research interests: Online learning, Sequential decision making under uncertainty.
 
