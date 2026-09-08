@@ -1,3 +1,2 @@
-## Hi there 👋
-Research interests: Machine learning and Statistics.
+I recognise and solve problems in Machine learning and Statistics.
 
